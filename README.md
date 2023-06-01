@@ -1,2 +1,3 @@
 👋🏻 Hi, I'm Amar.
-🎓 Junior Developer and Designer.
+🎓 Master's in computer science.
+🧑‍💻 Software Engineer
