@@ -11,6 +11,7 @@ Welcome to my portfolio! I'm a front-end engineer with a passion for crafting ex
 - **Tailwind CSS:** Expertise in using Tailwind CSS for efficient and responsive UI development.
 - **HTML & CSS:** Strong understanding of HTML5 and CSS3, with an eye for design and user interfaces.
 - **Firebase:** Familiar with Firebase for real-time database management, authentication, and hosting.
+- **REST APIs**
 
 
 ## Contact
