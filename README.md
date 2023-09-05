@@ -1,4 +1,6 @@
-## 👋 Hello, I'm Amarpreet, a Full Stack Developer with a strong focus on Front-end Engineering.
+# 👋 Hello, I'm Amarpreet
+  ### Full Stack Developer with a strong focus on Front-end Engineering.
+
 
 
 - 👨🏻‍💻 I am currently an active open-source contributor on GitHub.
