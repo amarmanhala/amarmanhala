@@ -1,4 +1,4 @@
-# 👋🏻 Hi, I'm Amar.
+## Hello, I'm Amar, a Full Stack Developer with a strong focus on Frontend Engineering. 👨‍💻 
 
 Welcome to my portfolio! I'm a front-end engineer with a passion for crafting exceptional user experiences using cutting-edge technologies. Below, you'll find a brief overview of my skills and projects.
 
