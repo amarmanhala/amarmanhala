@@ -1,22 +1,8 @@
-## 👋 Hello, I'm Amar, a Full Stack Developer with a strong focus on Front-end Engineering. 👨‍💻 
-
-Welcome to my portfolio! I'm a front-end engineer with a passion for crafting exceptional user experiences using cutting-edge technologies. Below, you'll find a brief overview of my skills and projects.
-
-## Skills
-
-- **JavaScript:** Proficient in ES6+ with a strong grasp of modern JavaScript concepts and best practices.
-- **React:** Experienced in building dynamic and responsive web applications using React.
-- **Redux:** Skilled in state management with Redux for handling complex application data.
-- **Next.js:** Proficient in Next.js for server-rendered React applications with SEO benefits.
-- **Tailwind CSS:** Expertise in using Tailwind CSS for efficient and responsive UI development.
-- **HTML & CSS:** Strong understanding of HTML5 and CSS3, with an eye for design and user interfaces.
-- **Firebase:** Familiar with Firebase for real-time database management, authentication, and hosting.
-- **REST APIs**
+## 👋 Hello, I'm Amarpreet, a Full Stack Developer with a strong focus on Front-end Engineering.
 
 
-## Contact
+- 👨🏻‍💻 I am currently an active open-source contributor on GitHub.
 
-If you'd like to get in touch or discuss a potential collaboration, feel free to reach out via amar.manhala@gmail.com
+- Ask me about **JavaScript**, **React**, **NextJS**, **Redux**, **NodeJS**, **TailwindCSS**, **UI Engineering**.
 
-Thank you for visiting my portfolio!
-
+- 📫 How to reach me - You can email me at amar.manhala@gmail.com
