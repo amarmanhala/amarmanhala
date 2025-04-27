@@ -1,10 +1,28 @@
-# 👋 Hello, I'm Amarpreet
-  ### Full Stack Developer with a strong focus on Front-end Engineering.
+# 👋 Hi, I'm Amarpreet Singh
+
+**I love to build stuff on internet.**
+
+## Currently building Expen-AI
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Java, JavaScript, TypeScript
+- **Frameworks:** Spring Boot, React
+- **Database:** PostgreSQL
+- **Cloud:** AWS (EC2, S3, RDS, etc.)
+- **Others:** REST APIs, Microservices, Git, Docker
+
+---
 
 
+---
 
-- 👨🏻‍💻 I am currently an active open-source contributor on GitHub.
+## 📫 Let's Connect
+Feel free to reach out if you want to collaborate or just chat tech!  
+[Portfolio](https://amarpreet.xyz)
 
-- Ask me about **JavaScript**, **React**, **NextJS**, **Redux**, **NodeJS**, **TailwindCSS**, **UI Engineering**.
 
-- 📫 How to reach me - You can email me at amar.manhala@gmail.com
+---
+
+> 🚀 *Always learning. Always building.*
