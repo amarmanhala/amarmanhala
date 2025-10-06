@@ -4,4 +4,4 @@
 
 ## Currently building Expen-AI
 
-🚀 I'm rocking **Java**, **Spring Boot**, **React**, **JavaScript**, **TypeScript**, **PostgreSQL**, **AWS**, and **REST APIs** to build scalable, awesome apps! 🌟
+🚀 I'm rocking **React**, **TypeScript**, **JavaScript**, **Next.js**, **Node.js** to build scalable, awesome apps! 🌟
