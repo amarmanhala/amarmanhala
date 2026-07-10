@@ -2,15 +2,11 @@
 
 Frontend Engineer based in Toronto, Canada.
 
-I build responsive and scalable web applications using React,
-TypeScript, modern frontend architecture, automated testing,
-and cloud deployment.
+I build responsive and scalable web applications using React, TypeScript, modern frontend architecture, automated testing, and cloud deployment.
 
 ## Core technologies
 
-React · TypeScript · JavaScript · Vite · Redux · Next.js  
-Playwright · REST APIs · Docker · Azure · GitHub Actions  
-Go · PostgreSQL
+React  TypeScript | JavaScript | Vite | Redux | Next.js | Playwright | REST APIs | Docker | Azure | GitHub Actions | PostgreSQL
 
 ## Featured projects
 
@@ -23,7 +19,7 @@ Expense and tax-tracking platform designed for Canadian gig workers.
 - Automated testing
 - Docker and cloud deployment
 
-[Repository](PROJECT_URL) · [Live demo](LIVE_URL)
+[Repository](PROJECT_URL) ·[Live demo](LIVE_URL)
 
 ### Japanese Art Store
 Full-stack e-commerce application for discovering and purchasing
@@ -36,10 +32,3 @@ Japanese-inspired artwork.
 - Dockerized development environment
 
 [Frontend](FRONTEND_URL) · [Backend](BACKEND_URL)
-
-## Currently focused on
-
-- Frontend architecture
-- Accessibility and responsive design
-- End-to-end testing with Playwright
-- CI/CD and Azure deployment
