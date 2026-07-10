@@ -1,7 +1,45 @@
-# 👋 Hi, I'm Amarpreet Singh
+# Amarpreet Singh
 
-**I love to build stuff on internet. I am from Toronto, Canada.**
+Frontend Engineer based in Toronto, Canada.
 
-## Currently building Expen-AI
+I build responsive and scalable web applications using React,
+TypeScript, modern frontend architecture, automated testing,
+and cloud deployment.
 
-🚀 I'm rocking **React**, **TypeScript**, **JavaScript**, **Next.js**, **Node.js** to build scalable, awesome apps! 🌟
+## Core technologies
+
+React · TypeScript · JavaScript · Vite · Redux · Next.js  
+Playwright · REST APIs · Docker · Azure · GitHub Actions  
+Go · PostgreSQL
+
+## Featured projects
+
+### Deductly
+Expense and tax-tracking platform designed for Canadian gig workers.
+
+- Responsive React and TypeScript application
+- Expense and receipt management
+- Reusable component architecture
+- Automated testing
+- Docker and cloud deployment
+
+[Repository](PROJECT_URL) · [Live demo](LIVE_URL)
+
+### Japanese Art Store
+Full-stack e-commerce application for discovering and purchasing
+Japanese-inspired artwork.
+
+- React and TypeScript frontend
+- Go REST API
+- PostgreSQL database
+- Product search, filtering and image management
+- Dockerized development environment
+
+[Frontend](FRONTEND_URL) · [Backend](BACKEND_URL)
+
+## Currently focused on
+
+- Frontend architecture
+- Accessibility and responsive design
+- End-to-end testing with Playwright
+- CI/CD and Azure deployment
