@@ -19,7 +19,7 @@ Expense and tax-tracking platform designed for Canadian gig workers.
 - Automated testing
 - Docker and cloud deployment
 
-[Repository](https://github.com/amarmanhala/amarmanhala/deductly) ·[Live demo](https://www.deductly.xyz/)
+[Repository](https://github.com/amarmanhala/deductly) ·[Live demo](https://www.deductly.xyz/)
 
 ### Japanese Art Store
 Full-stack e-commerce application for discovering and purchasing
